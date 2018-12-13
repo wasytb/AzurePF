@@ -9,7 +9,7 @@
 			"description": "Pattern to use for names. Can include ? for letters and # for numbers."
 
 		}
-		"value": "vm*##"
+		"value": "[parameters('namePattern')]"
 
 	}
 
